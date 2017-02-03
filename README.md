@@ -9,5 +9,5 @@
 
 ## Sous titre 2
 
-[ ] Page d'accueil
-[x] Page contact
+- [ ] Page d'accueil
+- [x] Page contact
